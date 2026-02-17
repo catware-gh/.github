@@ -2,16 +2,11 @@
 
 <p align="center">
 	A group of friends passionate about breaking and building things.<br>
-	<strong>
-		<span style="color:#f9b233;">Security</span>,
-		<span style="color:#f2855e;">Reverse Engineering</span>,
-		<span style="color:#b56dff;">Programming</span>,
-		<span style="color:#39d5ff;">Learning</span>
-	</strong>
+	<img src="./assets/focus.svg" alt="Security, Reverse Engineering, Programming, Learning" width="500" />
 </p>
 
 <p align="center">
-	<img src="https://i.pinimg.com/originals/2e/b1/0b/2eb10b59118a41a16673514d1c07e651.gif" alt="CATWARE GIF" />
+	<img src="./assets/catware.gif" alt="CATWARE GIF" width="560" />
 </p>
 
 ---
