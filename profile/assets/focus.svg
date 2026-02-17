@@ -1,14 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="24" viewBox="0 0 560 24" role="img" aria-label="Security, Reverse Engineering, Programming, Learning">
-  <style>
-    .t { font: 700 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-  </style>
-  <text x="50%" y="17" class="t" text-anchor="middle">
-    <tspan fill="#f9b233">Security</tspan>
-    <tspan fill="#ffffff">, </tspan>
-    <tspan fill="#f2855e">Reverse Engineering</tspan>
-    <tspan fill="#ffffff">, </tspan>
-    <tspan fill="#b56dff">Programming</tspan>
-    <tspan fill="#ffffff">, </tspan>
-    <tspan fill="#39d5ff">Learning</tspan>
-  </text>
+  <style>.t{font:700 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;}</style>
+  <text x="280" y="12" class="t" text-anchor="middle" dominant-baseline="middle"><tspan fill="#f9b233">Security</tspan><tspan fill="#ffffff"> , </tspan><tspan fill="#f2855e">Reverse Engineering</tspan><tspan fill="#ffffff"> , </tspan><tspan fill="#b56dff">Programming</tspan><tspan fill="#ffffff"> , </tspan><tspan fill="#39d5ff">Learning</tspan></text>
 </svg>
