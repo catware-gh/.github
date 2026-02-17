@@ -2,7 +2,7 @@
 
 <p align="center">
 	A group of friends passionate about breaking and building things.<br>
-	<img src="./assets/focus.svg" alt="Security, Reverse Engineering, Programming, Learning" width="500" />
+	<img src="./assets/focus.svg" alt="Security, Reverse Engineering, Programming, Learning" width="560" />
 </p>
 
 <p align="center">
