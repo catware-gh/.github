@@ -1,32 +1,18 @@
-# Welcome to CATWARE.club 🐱
+<h1 align="center">CATWARE.club Github</h1>
 
-## About Us
+<p align="center">
+	A group of friends passionate about breaking and building things.<br>
+	<strong>
+		<span style="color:#f9b233;">Security</span>,
+		<span style="color:#f2855e;">Reverse Engineering</span>,
+		<span style="color:#b56dff;">Programming</span>,
+		<span style="color:#39d5ff;">Learning</span>
+	</strong>
+</p>
 
-CATWARE.club is a community-driven organization focused on building innovative software solutions and fostering collaboration among developers.
-
-## What We Do
-
-- 🚀 Build open-source projects
-- 🤝 Foster a collaborative development community
-- 🎯 Create tools and resources for developers
-- 📚 Share knowledge and best practices
-
-## Get Involved
-
-We welcome contributions from developers of all skill levels! Check out our repositories and join our community.
-
-### Contributing
-
-Feel free to:
-- Browse our repositories
-- Open issues for bugs or feature requests
-- Submit pull requests
-- Star your favorite projects
-
-## Connect With Us
-
-Visit [CATWARE.club](https://catware.club) to learn more about our community and projects.
+<p align="center">
+	<img src="https://i.pinimg.com/originals/2e/b1/0b/2eb10b59118a41a16673514d1c07e651.gif" alt="CATWARE GIF" />
+</p>
 
 ---
-
-*Built with ❤️ by the CATWARE community*
+*Visit* [CATWARE.club](https://catware.club) *to learn more about us*
