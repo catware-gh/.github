@@ -2,11 +2,11 @@
 
 <p align="center">
 	A group of friends passionate about breaking and building things.<br>
-	<img src="./assets/focus.svg" alt="Security, Reverse Engineering, Programming, Learning" width="560" />
+	<img src="./assets/focus.svg" alt="Security, Reverse Engineering, Programming, Learning" width="600" />
 </p>
 
 <p align="center">
-	<img src="./assets/catware.gif" alt="CATWARE GIF" width="560" />
+	<img src="./assets/catware.gif" alt="CATWARE GIF" width="600" />
 </p>
 
 ---
