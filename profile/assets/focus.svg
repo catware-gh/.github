@@ -2,7 +2,7 @@
   <style>
     .t { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
   </style>
-  <text x="0" y="16" class="t">
+  <text x="50%" y="16" class="t" text-anchor="middle">
     <tspan fill="#f9b233">Security</tspan>
     <tspan fill="#ffffff">, </tspan>
     <tspan fill="#f2855e">Reverse Engineering</tspan>
